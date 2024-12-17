@@ -1,2 +1,2 @@
 # Leetcode
-Daily data sync
+Daily code data syncing with problem statements and solutions from LeetCode.
