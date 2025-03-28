@@ -16,6 +16,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2665-minimum-time-to-repair-cars](https://github.com/technicalpriyanka/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/technicalpriyanka/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/technicalpriyanka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/technicalpriyanka/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/technicalpriyanka/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -28,6 +29,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/technicalpriyanka/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/technicalpriyanka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/technicalpriyanka/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
@@ -116,6 +118,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/technicalpriyanka/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/technicalpriyanka/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Breadth-First Search
 |  |
