@@ -38,6 +38,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/technicalpriyanka/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/technicalpriyanka/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/technicalpriyanka/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -45,6 +46,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/technicalpriyanka/Leetcode/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/technicalpriyanka/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/technicalpriyanka/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -54,6 +56,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/technicalpriyanka/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technicalpriyanka/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/technicalpriyanka/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
