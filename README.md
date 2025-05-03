@@ -7,6 +7,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/technicalpriyanka/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -160,6 +161,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
