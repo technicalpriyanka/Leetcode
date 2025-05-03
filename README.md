@@ -155,6 +155,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1801-average-time-of-process-per-machine](https://github.com/technicalpriyanka/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/technicalpriyanka/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/technicalpriyanka/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/technicalpriyanka/Leetcode/tree/master/2087-confirmation-rate) |
 ## Greedy
 |  |
 | ------- |
