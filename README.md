@@ -10,6 +10,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/technicalpriyanka/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2048-build-array-from-permutation](https://github.com/technicalpriyanka/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technicalpriyanka/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -67,6 +68,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/technicalpriyanka/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technicalpriyanka/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/technicalpriyanka/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Math
