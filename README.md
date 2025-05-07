@@ -25,6 +25,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/technicalpriyanka/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/technicalpriyanka/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -84,6 +85,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Database
 |  |
 | ------- |
@@ -179,4 +183,8 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
