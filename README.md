@@ -176,6 +176,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0627-swap-salary](https://github.com/technicalpriyanka/Leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1161-project-employees-i) |
+| [1174-sales-analysis-iii](https://github.com/technicalpriyanka/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1258-article-views-i) |
