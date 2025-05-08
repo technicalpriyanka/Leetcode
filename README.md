@@ -182,6 +182,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/technicalpriyanka/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/technicalpriyanka/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/technicalpriyanka/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/technicalpriyanka/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/technicalpriyanka/Leetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/technicalpriyanka/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/technicalpriyanka/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
