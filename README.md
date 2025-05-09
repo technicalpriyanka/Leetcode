@@ -49,6 +49,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1170-shortest-common-supersequence](https://github.com/technicalpriyanka/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/technicalpriyanka/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/technicalpriyanka/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/technicalpriyanka/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/technicalpriyanka/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/technicalpriyanka/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/technicalpriyanka/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2649-count-total-number-of-colored-cells](https://github.com/technicalpriyanka/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/technicalpriyanka/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/technicalpriyanka/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -216,4 +219,8 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/technicalpriyanka/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
