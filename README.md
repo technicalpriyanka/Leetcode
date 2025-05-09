@@ -199,6 +199,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1811-fix-names-in-a-table](https://github.com/technicalpriyanka/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/technicalpriyanka/Leetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/technicalpriyanka/Leetcode/tree/master/1837-daily-leads-and-partners) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/technicalpriyanka/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/technicalpriyanka/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/technicalpriyanka/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/technicalpriyanka/Leetcode/tree/master/1948-rearrange-products-table) |
