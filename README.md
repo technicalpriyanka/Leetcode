@@ -201,6 +201,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1837-daily-leads-and-partners](https://github.com/technicalpriyanka/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/technicalpriyanka/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/technicalpriyanka/Leetcode/tree/master/2087-confirmation-rate) |
+| [3782-find-valid-emails](https://github.com/technicalpriyanka/Leetcode/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/technicalpriyanka/Leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Greedy
 |  |
