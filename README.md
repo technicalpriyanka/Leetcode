@@ -200,6 +200,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1827-invalid-tweets](https://github.com/technicalpriyanka/Leetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/technicalpriyanka/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/technicalpriyanka/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/technicalpriyanka/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/technicalpriyanka/Leetcode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/technicalpriyanka/Leetcode/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/technicalpriyanka/Leetcode/tree/master/2041-the-latest-login-in-2020) |
