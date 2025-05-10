@@ -79,6 +79,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/technicalpriyanka/Leetcode/tree/master/0009-palindrome-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/technicalpriyanka/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/technicalpriyanka/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/technicalpriyanka/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
