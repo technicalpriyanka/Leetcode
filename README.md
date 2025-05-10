@@ -21,6 +21,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2690-house-robber-iv](https://github.com/technicalpriyanka/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/technicalpriyanka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/technicalpriyanka/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/technicalpriyanka/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/technicalpriyanka/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -217,6 +218,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/technicalpriyanka/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Queue
 |  |
 | ------- |
