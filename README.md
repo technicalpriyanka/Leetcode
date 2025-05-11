@@ -8,6 +8,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/technicalpriyanka/Leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/technicalpriyanka/Leetcode/tree/master/0118-pascals-triangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -72,6 +73,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0868-push-dominoes](https://github.com/technicalpriyanka/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technicalpriyanka/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/technicalpriyanka/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -152,6 +154,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/technicalpriyanka/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
