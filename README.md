@@ -8,6 +8,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/technicalpriyanka/Leetcode/tree/master/0035-search-insert-position) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/technicalpriyanka/Leetcode/tree/master/0118-pascals-triangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -244,4 +245,20 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/technicalpriyanka/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
