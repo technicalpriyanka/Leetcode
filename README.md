@@ -6,6 +6,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -66,6 +67,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
 | [0868-push-dominoes](https://github.com/technicalpriyanka/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technicalpriyanka/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/technicalpriyanka/Leetcode/tree/master/2551-apply-operations-to-an-array) |
