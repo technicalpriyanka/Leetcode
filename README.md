@@ -200,6 +200,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/technicalpriyanka/Leetcode/tree/master/1301-reformat-department-table) |
+| [1317-monthly-transactions-i](https://github.com/technicalpriyanka/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/technicalpriyanka/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/technicalpriyanka/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/technicalpriyanka/Leetcode/tree/master/1415-students-and-examinations) |
