@@ -6,6 +6,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/technicalpriyanka/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/technicalpriyanka/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -41,6 +42,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/technicalpriyanka/Leetcode/tree/master/0001-two-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/technicalpriyanka/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
