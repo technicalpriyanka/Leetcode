@@ -61,6 +61,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0118-pascals-triangle](https://github.com/technicalpriyanka/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/technicalpriyanka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0806-domino-and-tromino-tiling](https://github.com/technicalpriyanka/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/technicalpriyanka/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/technicalpriyanka/Leetcode/tree/master/1170-shortest-common-supersequence) |
