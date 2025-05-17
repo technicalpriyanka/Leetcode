@@ -9,6 +9,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0001-two-sum](https://github.com/technicalpriyanka/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/technicalpriyanka/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/technicalpriyanka/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/technicalpriyanka/Leetcode/tree/master/0118-pascals-triangle) |
@@ -94,6 +95,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/technicalpriyanka/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0868-push-dominoes](https://github.com/technicalpriyanka/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technicalpriyanka/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -179,6 +181,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/technicalpriyanka/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/technicalpriyanka/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
