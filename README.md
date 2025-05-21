@@ -9,6 +9,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0001-two-sum](https://github.com/technicalpriyanka/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/technicalpriyanka/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/technicalpriyanka/Leetcode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/technicalpriyanka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/technicalpriyanka/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/technicalpriyanka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -49,6 +50,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/technicalpriyanka/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/technicalpriyanka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/technicalpriyanka/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -126,6 +128,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/technicalpriyanka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
