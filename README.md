@@ -45,6 +45,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/technicalpriyanka/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/technicalpriyanka/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/technicalpriyanka/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2888-minimum-index-of-a-valid-split](https://github.com/technicalpriyanka/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/technicalpriyanka/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/technicalpriyanka/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/technicalpriyanka/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/technicalpriyanka/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Database
 |  |
 | ------- |
@@ -275,6 +279,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/technicalpriyanka/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/technicalpriyanka/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/technicalpriyanka/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
 |  |
 | ------- |
