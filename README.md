@@ -58,6 +58,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/technicalpriyanka/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/technicalpriyanka/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technicalpriyanka/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -79,6 +80,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/technicalpriyanka/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/technicalpriyanka/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/technicalpriyanka/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -165,6 +167,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technicalpriyanka/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/technicalpriyanka/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -188,6 +191,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -195,6 +199,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/technicalpriyanka/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
@@ -340,4 +345,8 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/technicalpriyanka/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
