@@ -219,6 +219,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,4 +352,8 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
