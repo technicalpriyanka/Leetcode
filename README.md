@@ -220,6 +220,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/technicalpriyanka/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -356,4 +358,5 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
