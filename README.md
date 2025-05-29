@@ -17,6 +17,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0118-pascals-triangle](https://github.com/technicalpriyanka/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/technicalpriyanka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/technicalpriyanka/Leetcode/tree/master/0136-single-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -184,6 +185,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/technicalpriyanka/Leetcode/tree/master/0136-single-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
