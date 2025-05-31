@@ -19,6 +19,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/technicalpriyanka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/technicalpriyanka/Leetcode/tree/master/0136-single-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/technicalpriyanka/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0945-snakes-and-ladders](https://github.com/technicalpriyanka/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/technicalpriyanka/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/technicalpriyanka/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/technicalpriyanka/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -143,6 +144,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/technicalpriyanka/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/technicalpriyanka/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -223,6 +225,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/technicalpriyanka/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
