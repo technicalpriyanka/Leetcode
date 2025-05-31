@@ -84,6 +84,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [1170-shortest-common-supersequence](https://github.com/technicalpriyanka/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/technicalpriyanka/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/technicalpriyanka/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/technicalpriyanka/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/technicalpriyanka/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/technicalpriyanka/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
