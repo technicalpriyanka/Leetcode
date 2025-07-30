@@ -34,6 +34,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/technicalpriyanka/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/technicalpriyanka/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/technicalpriyanka/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/technicalpriyanka/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/technicalpriyanka/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/technicalpriyanka/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/technicalpriyanka/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -218,6 +219,7 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/technicalpriyanka/Leetcode/tree/master/0136-single-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/technicalpriyanka/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/technicalpriyanka/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/technicalpriyanka/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
@@ -424,4 +426,8 @@ Daily code data syncing with problem statements and solutions from LeetCode.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/technicalpriyanka/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/technicalpriyanka/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
